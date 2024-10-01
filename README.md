@@ -15,8 +15,9 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Role in Web Development](./introduction.md#-role-in-web-development)
 	- [Benefits of Using PHP](./introduction.md#-benefits-of-using-php)
 2. [Basic Syntax:](./docs/basic-syntax.md)
-	- Variables and data types (integers, floats, strings, booleans)
-	- Operators (arithmetic, comparison, logical)
+	- [Variables](./docs/basic-syntax.md#-variables)
+	- [Data Types](./docs/basic-syntax.md#-data-types)
+	- [Operators](./docs/basic-syntax.md#-operators)
 3. [Control flow:](./docs/control-flow.md)
 	- if-else statements
 	- switch statements
