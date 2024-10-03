@@ -19,8 +19,9 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Data Types](./docs/basic-syntax.md#-data-types)
 	- [Operators](./docs/basic-syntax.md#-operators)
 3. [Control flow:](./docs/control-flow.md)
-	- if-else statements
-	- switch statements
+	- [If Else Statements](./docs/control-flow.md#-if-else-statements)
+	- [Nested If Else Statements](./docs/control-flow.md#-nested-if-else-statements)
+	- [Switch Statements](./docs/control-flow.md#-switch-statements)
 4. [Functions:](./docs/functions.md)
 	- Defining and calling functions
 	- Function arguments and return values
