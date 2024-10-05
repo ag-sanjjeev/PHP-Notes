@@ -23,9 +23,26 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Nested If Else Statements](./docs/control-flow.md#-nested-if-else-statements)
 	- [Switch Statements](./docs/control-flow.md#-switch-statements)
 4. [Functions:](./docs/functions.md)
-	- Defining and calling functions
-	- Function arguments and return values
-	- Scope of variables
+	- [Function Definition](./docs/functions.md#-function-definition)
+	- [Function Calling](./docs/functions.md#-function-calling)
+	- [Function Arguments and Parameters](./docs/functions.md#-function-arguments-and-parameters)
+	- [Function Return Values](./docs/functions.md#-function-return-values)
+	- [Pass by Value](./docs/functions.md#-pass-by-value)
+	- [Pass by Reference](./docs/functions.md#-pass-by-reference)
+	- [Scope of Variables](./docs/functions.md#-scope-of-variables)
+	- [Variable Length Argument Lists](./docs/functions.md#-variable-length-argument-lists)
+	- [Anonymous Functions](./docs/functions.md#-anonymous-functions)
+	- [Recursion](./docs/functions.md#-recursion)
+	- [Variable Functions](./docs/functions.md#-variable-functions)
+	- [Type Hinting](./docs/functions.md#-type-hinting)
+	- [Return Type Declarations](./docs/functions.md#-return-type-declarations)
+	- [Generators](./docs/functions.md#-generators)
+	- [String Functions](./docs/functions.md#-string-functions)
+	- [Mathematical Functions](./docs/functions.md#-mathematical-functions)
+	- [Date and Time Functions](./docs/functions.md#-date-and-time-functions)
+	- [File and Directory Functions](./docs/functions.md#-file-and-directory-functions)
+	- [Array Functions](./docs/functions.md#-array-functions)
+	- [Other Common Functions](./docs/functions.md#-other-common-functions)
 5. [Arrays:](./docs/arrays.md)
 	- Indexed and associative arrays
 	- Multidimensional arrays
