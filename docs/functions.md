@@ -16,12 +16,13 @@ Functions are blocks of code that perform specific tasks. That promote code re-u
 12. [Type Hinting](#-type-hinting)
 13. [Return Type Declarations](#-return-type-declarations)
 14. [Generators](#-generators)
-15. [String Functions](#-string-functions)
-16. [Mathematical Functions](#-mathematical-functions)
-17. [Date and Time Functions](#-date-and-time-functions)
-18. [File and Directory Functions](#-file-and-directory-functions)
-19. [Array Functions](#-array-functions)
-20. [Other Common Functions](#-other-common-functions)
+15. [Arrow Functions](#-arrow-functions)
+16. [String Functions](#-string-functions)
+17. [Mathematical Functions](#-mathematical-functions)
+18. [Date and Time Functions](#-date-and-time-functions)
+19. [File and Directory Functions](#-file-and-directory-functions)
+20. [Array Functions](#-array-functions)
+21. [Other Common Functions](#-other-common-functions)
 
 ### &#10022; Function Definition:
 It means creating function by defining the details.
@@ -228,6 +229,19 @@ function generateNumbers() {
 foreach (generateNumbers() as $number) {
   echo $number . PHP_EOL;
 }
+```
+
+### &#10022; Arrow Functions:
+To create function definition in simpler way and used in the function parameters as a callback. It also know as arrow function in PHP.
+
+*Example:*
+```php
+$numbers = [1, 2, 3, 4, 5];
+
+// arrow function
+$squareOfNumbers = array_map(fn ($num) => $num * $num, $numbers);
+
+print_r($squareOfNumbers);
 ```
 
 ### &#10022; String Functions:

@@ -37,6 +37,7 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Type Hinting](./docs/functions.md#-type-hinting)
 	- [Return Type Declarations](./docs/functions.md#-return-type-declarations)
 	- [Generators](./docs/functions.md#-generators)
+	- [Arrow Functions](./docs/functions.md#-arrow-functions)
 	- [String Functions](./docs/functions.md#-string-functions)
 	- [Mathematical Functions](./docs/functions.md#-mathematical-functions)
 	- [Date and Time Functions](./docs/functions.md#-date-and-time-functions)
