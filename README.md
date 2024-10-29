@@ -45,9 +45,16 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Array Functions](./docs/functions.md#-array-functions)
 	- [Other Common Functions](./docs/functions.md#-other-common-functions)
 5. [Arrays:](./docs/arrays.md)
-	- Indexed and associative arrays
-	- Multidimensional arrays
-	- Array functions (sort, search, etc.)
+	- [Array Types](./docs/arrays.md#-array-types)
+	- [Indexed Array](./docs/arrays.md#-indexed-array)
+	- [Associative Array](./docs/arrays.md#-associative-array)
+	- [Multi Dimensional Array](./docs/arrays.md#-multi-dimensional-array)
+	- [Choosing Array](./docs/arrays.md#-choosing-array)
+	- [Adding Elements in Array](./docs/arrays.md#-adding-elements-in-array)
+	- [Accessing Array Elements](./docs/arrays.md#-accessing-array-elements)
+	- [Array Elements Unpack](./docs/arrays.md#-array-elements-unpack)
+	- [Iterating Array Elements](./docs/arrays.md#-iterating-array-elements)
+	- [Common Array Functions](./docs/arrays.md#-common-array-functions)
 
 ### Core PHP Concepts
 1. Super globals:
