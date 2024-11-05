@@ -57,18 +57,23 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Common Array Functions](./docs/arrays.md#-common-array-functions)
 
 ### Core PHP Concepts
-1. Super globals:
-	- GET
-	- POST
-	- SESSION
-	- COOKIE
-	- Handling form data and user input
+1. [Super globals:](./docs/super-globals.md)
+	- [GET Variable](./docs/super-globals.md#-get-variable)
+	- [POST Variable](./docs/super-globals.md#-post-variable)
+	- [REQUEST Variable](./docs/super-globals.md#-request-variable)
+	- [FILES Variable](./docs/super-globals.md#-files-variable)
+	- [SESSION Variable](./docs/super-globals.md#-session-variable)
+	- [COOKIE Variable](./docs/super-globals.md#-cookie-variable)
+	- [SERVER Variable](./docs/super-globals.md#-server-variable)
+	- [ENV Variable](./docs/super-globals.md#-env-variable)
 2. Forms and Data Handling:
 	- Creating HTML forms
+	- Handling form data and user input
 	- Processing form data using PHP
 	- Input validation and sanitization
 3. Sessions and Cookies:
 	- Managing user sessions
+	- session handling techniques in php
 	- Storing and retrieving data using cookies
 4. File Handling:
 	- Reading, writing, and manipulating files
@@ -135,6 +140,7 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- Building RESTful APIs
 	- Consuming RESTful APIs
 6. Security Best Practices:
+	- Common web attacks
 	- Protecting your applications from vulnerabilities 
 		- SQL injection
 		- Cross-site scripting
