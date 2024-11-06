@@ -91,9 +91,13 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Session Handlers](./docs/sessions.md#-session-handlers),
 	- [Example For Custom Session Handlers](./docs/sessions.md#-example-for-custom-session-handlers),
 	- [Protecting Against Session Fixation](./docs/sessions.md#-protecting-against-session-fixation)
-4. Cookies:
-	- Storing 
-	- Retrieving
+4. [Cookies:](./docs/cookies.md)
+	- [Need and Usage](./docs/cookies.md#-need-and-usage),
+	- [Creating a cookie](./docs/cookies.md#-creating-a-cookie),
+	- [Modifying a cookie](./docs/cookies.md#-modifying-a-cookie),
+	- [Deleting a cookie](./docs/cookies.md#-deleting-a-cookie),
+	- [Pros](./docs/cookies.md#-pros),
+	- [Cons](./docs/cookies.md#-cons)
 5. File Handling:
 	- Reading, writing, and manipulating files
 	- File upload and download
