@@ -73,9 +73,24 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Input Validation](./docs/forms-and-data-handling.md#-input-validation)
 	- [Input Sanitization](./docs/forms-and-data-handling.md#-input-sanitization)
 	- [Filter Variable Flags](./docs/forms-and-data-handling.md#-filter-variable-flags)
-3. Sessions:
-	- Managing user sessions
-	- session handling techniques in php
+3. [Sessions:](./docs/sessions.md)
+	- [Need and Usage](./docs/sessions.md#-need-and-usage),
+	- [Creating Session](./docs/sessions.md#-creating-session),
+	- [Storing Data in Session](./docs/sessions.md#-storing-data-in-session),
+	- [Retrieving Data from Session](./docs/sessions.md#-retrieving-data-from-session),
+	- [Removing Session Data](./docs/sessions.md#-removing-session-data),
+	- [Destroying Session](./docs/sessions.md#-destroying-session),
+	- [Pros](./docs/sessions.md#-pros),
+	- [Cons](./docs/sessions.md#-cons),
+	- [Functions Related To Session](./docs/sessions.md#-functions-related-to-session),
+	- [Constants Related To Session](./docs/sessions.md#-constants-related-to-session),
+	- [Configuration Flags Related To Session](./docs/sessions.md#-configuration-flags-related-to-session),
+	- [Different Session Handling Techniques](./docs/sessions.md#-different-session-handling-techniques),
+	- [Secure Session Handling](./docs/sessions.md#-secure-session-handling),
+	- [Strong Session Name](./docs/sessions.md#-strong-session-name),
+	- [Session Handlers](./docs/sessions.md#-session-handlers),
+	- [Example For Custom Session Handlers](./docs/sessions.md#-example-for-custom-session-handlers),
+	- [Protecting Against Session Fixation](./docs/sessions.md#-protecting-against-session-fixation)
 4. Cookies:
 	- Storing 
 	- Retrieving
