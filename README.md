@@ -98,9 +98,14 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Deleting a cookie](./docs/cookies.md#-deleting-a-cookie),
 	- [Pros](./docs/cookies.md#-pros),
 	- [Cons](./docs/cookies.md#-cons)
-5. File Handling:
-	- Reading, writing, and manipulating files
-	- File upload and download
+5. [File Handling:](./docs/file-handling.md)
+	- [Handling Directory](./docs/file-handling.md#-handling-directory),
+	- [Handling File](./docs/file-handling.md#-handling-file),
+	- [Uploading a file](./docs/file-handling.md#-uploading-a-file),
+	- [Downloading a file](./docs/file-handling.md#-downloading-a-file),
+	- [File Handling Flags](./docs/file-handling.md#-file-handling-flags),
+	- [Common File Handling Functions](./docs/file-handling.md#-common-file-handling-functions),
+	- [Security Considerations](./docs/file-handling.md#-security-considerations)
 6. Error Handling and Debugging:
 	- Identifying and resolving errors
 	- Debugging techniques
