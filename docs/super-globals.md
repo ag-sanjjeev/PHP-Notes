@@ -203,6 +203,6 @@ $pdo = new PDO($dsn, $dbConfig['user'], $dbConfig['pass']);
 ---
 [&#8682; To Top](#-super-globals)
 
-[&#10094; Previous Topic](./arrays.md) &emsp; [Next Topic &#10095;](./form-and-data-handling.md)
+[&#10094; Previous Topic](./arrays.md) &emsp; [Next Topic &#10095;](./forms-and-data-handling.md)
 
 [&#8962; Goto Home Page](../README.md)

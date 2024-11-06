@@ -66,19 +66,23 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [COOKIE Variable](./docs/super-globals.md#-cookie-variable)
 	- [SERVER Variable](./docs/super-globals.md#-server-variable)
 	- [ENV Variable](./docs/super-globals.md#-env-variable)
-2. Forms and Data Handling:
-	- Creating HTML forms
-	- Handling form data and user input
-	- Processing form data using PHP
-	- Input validation and sanitization
-3. Sessions and Cookies:
+2. [Forms and Data Handling:](./docs/forms-and-data-handling.md)
+	- [Creating Forms](./docs/forms-and-data-handling.md#-creating-forms)
+	- [Handling Forms](./docs/forms-and-data-handling.md#-handling-forms)
+	- [Processing Data](./docs/forms-and-data-handling.md#-processing-data)
+	- [Input Validation](./docs/forms-and-data-handling.md#-input-validation)
+	- [Input Sanitization](./docs/forms-and-data-handling.md#-input-sanitization)
+	- [Filter Variable Flags](./docs/forms-and-data-handling.md#-filter-variable-flags)
+3. Sessions:
 	- Managing user sessions
 	- session handling techniques in php
-	- Storing and retrieving data using cookies
-4. File Handling:
+4. Cookies:
+	- Storing 
+	- Retrieving
+5. File Handling:
 	- Reading, writing, and manipulating files
 	- File upload and download
-5. Error Handling and Debugging:
+6. Error Handling and Debugging:
 	- Identifying and resolving errors
 	- Debugging techniques
 		- error reporting
