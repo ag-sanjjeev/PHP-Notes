@@ -106,11 +106,16 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [File Handling Flags](./docs/file-handling.md#-file-handling-flags),
 	- [Common File Handling Functions](./docs/file-handling.md#-common-file-handling-functions),
 	- [Security Considerations](./docs/file-handling.md#-security-considerations)
-6. Error Handling and Debugging:
-	- Identifying and resolving errors
-	- Debugging techniques
-		- error reporting
-		- debugging tools
+6. [Error Handling and Debugging:](./docs/error-handling-and-debugging.md)
+	- [Identifying Errors](./docs/error-handling-and-debugging.md#-identifying-errors),
+	- [Debugging Techniques](./docs/error-handling-and-debugging.md#-debugging-techniques),
+	- [Error Levels](./docs/error-handling-and-debugging.md#-error-levels),
+	- [Log Levels](./docs/error-handling-and-debugging.md#-log-levels),
+	- [Logging to a File](./docs/error-handling-and-debugging.md#-logging-to-a-file),
+	- [Logging to a Database](./docs/error-handling-and-debugging.md#-logging-to-a-database),
+	- [Error Logging Formats](./docs/error-handling-and-debugging.md#-error-logging-formats),
+	- [Key Points](./docs/error-handling-and-debugging.md#-key-points),
+	- [Log Rotation](./docs/error-handling-and-debugging.md#-log-rotation)
 
 ### Object-Oriented Programming in PHP
 1. Classes and Objects:
