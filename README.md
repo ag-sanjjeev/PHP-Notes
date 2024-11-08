@@ -131,11 +131,11 @@ This repository contains PHP topics and their notes to learn from beginner level
 3. [Polymorphism:](./docs/polymorphism.md)
 	- [Method Overloading](./docs/polymorphism.md#-method-overloading),
 	- [Method Overriding](./docs/polymorphism.md#-method-overriding)
-4. Encapsulation:
-	- Access modifiers 
-		- public
-		- private
-		- protected
+4. [Encapsulation:](./docs/encapsulation.md)
+	- [Access Modifiers](./docs/encapsulation.md#-access-modifiers)
+		- [Public](./docs/encapsulation.md#-public),
+		- [Protected](./docs/encapsulation.md#-protected),
+		- [Private](./docs/encapsulation.md#-private)
 5. Abstraction:
 	- Abstract classes
 	- Interfaces
