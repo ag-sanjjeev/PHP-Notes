@@ -118,12 +118,12 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Log Rotation](./docs/error-handling-and-debugging.md#-log-rotation)
 
 ### Object-Oriented Programming in PHP
-1. Classes and Objects:
-	- Defining classes
-	- Properties and methods
-	- Creating objects
-	- Object instantiation 
-	- Object destruction
+1. [Classes and Objects:](./docs/classes-and-objects.md)
+	- [Defining Classes](./docs/classes-and-objects.md#-defining-classes),
+	- [Properties and Methods](./docs/classes-and-objects.md#-properties-and-methods),
+	- [Creating Objects](./docs/classes-and-objects.md#-creating-objects),
+	- [Object Destruction](./docs/classes-and-objects.md#-object-destruction),
+	- [Key Points](./docs/classes-and-objects.md#-key-points)
 2. Inheritance:
 	- Extending classes
 	- Overriding methods
