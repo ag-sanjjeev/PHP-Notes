@@ -136,10 +136,12 @@ This repository contains PHP topics and their notes to learn from beginner level
 		- [Public](./docs/encapsulation.md#-public),
 		- [Protected](./docs/encapsulation.md#-protected),
 		- [Private](./docs/encapsulation.md#-private)
-5. Abstraction:
-	- Abstract classes
-	- Interfaces
-	- Traits
+5. [Abstraction:](./docs/abstraction.md)
+	- [Abstract Classes](./docs/abstraction.md#-abstract-classes),
+	- [Interfaces](./docs/abstraction.md#-interfaces),
+	- [Traits](./docs/abstraction.md#-traits),
+	- [Key Points](./docs/abstraction.md#-key-points),
+	- [Real World Usages](./docs/abstraction.md#-real-world-usages)
 
 ### Database Integration
 1. MySQL Basics:
