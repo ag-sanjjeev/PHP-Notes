@@ -124,12 +124,13 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Creating Objects](./docs/classes-and-objects.md#-creating-objects),
 	- [Object Destruction](./docs/classes-and-objects.md#-object-destruction),
 	- [Key Points](./docs/classes-and-objects.md#-key-points)
-2. Inheritance:
-	- Extending classes
-	- Overriding methods
-3. Polymorphism:
-	- Method overloading
-	- Method overriding
+2. [Inheritance:](./docs/inheritance.md)
+	- [Extending Classes](./docs/inheritance.md#-extending-classes),
+	- [Overriding Methods](./docs/inheritance.md#-overriding-methods),
+	- [Key Points](./docs/inheritance.md#-key-points)
+3. [Polymorphism:](./docs/polymorphism.md)
+	- [Method Overloading](./docs/polymorphism.md#-method-overloading),
+	- [Method Overriding](./docs/polymorphism.md#-method-overriding)
 4. Encapsulation:
 	- Access modifiers 
 		- public
