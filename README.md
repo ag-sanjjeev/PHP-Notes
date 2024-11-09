@@ -144,16 +144,12 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Real World Usages](./docs/abstraction.md#-real-world-usages)
 
 ### Database Integration
-1. MySQL Basics:
-	- Introduction to MySQL
-	- Creating databases, tables, and records
-	- SQL queries (SELECT, INSERT, UPDATE, DELETE)
-2. PHP-MySQL Integration:
-	- Connecting to a MySQL database
-	- Executing SQL queries using PHP
-	- Fetching and displaying data
-	- Update and Deleting data
-3. Database Abstraction Layers (DALs):
+1. [PHP-MySQL Integration:](./docs/php-mysql-integration.md)
+	- [MySQL Overview](./docs/php-mysql-integration.md#-mysql-overview),
+	- [Connecting to a MySQL Database](./docs/php-mysql-integration.md#-connecting-to-a-mysql-database),
+	- [Executing SQL Queries](./docs/php-mysql-integration.md#-executing-sql-queries),
+	- [Updating and Deleting Data](./docs/php-mysql-integration.md#-updating-and-deleting-data)
+2. Database Abstraction Layers (DALs):
 	- PDO (PHP Data Objects)
 	- Doctrine ORM
 	- Prepared Statements
