@@ -149,12 +149,10 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Connecting to a MySQL Database](./docs/php-mysql-integration.md#-connecting-to-a-mysql-database),
 	- [Executing SQL Queries](./docs/php-mysql-integration.md#-executing-sql-queries),
 	- [Updating and Deleting Data](./docs/php-mysql-integration.md#-updating-and-deleting-data)
-2. Database Abstraction Layers (DALs):
-	- PDO (PHP Data Objects)
-	- Doctrine ORM
-	- Prepared Statements
-	- Preventing SQL injection
-	- Parameterized queries
+2. [Database Abstraction Layers:](./docs/database-abstraction-layers.md)
+	- [PDO](./docs/database-abstraction-layers.md#-pdo),
+	- [Prepared Statements](./docs/database-abstraction-layers.md#-prepared-statements),
+	- [Positional and Parameterized Queries](./docs/database-abstraction-layers.md#-positional-and-parameterized-queries)
 
 ### Web Development with PHP
 1. Web Frameworks:
