@@ -163,20 +163,9 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Building MVC](./docs/mvc-architecture.md#-building-mvc),
 	- [How it works](./docs/mvc-architecture.md#-how-it-works),
 	- [Advantages of MVC](./docs/mvc-architecture.md#-advantages-of-mvc)
-3. Routing:
-	- Mapping URLs to specific actions
-<!-- 4. Template Engines: -->
-	<!-- - Using templates for dynamic content generation -->
-5. RESTful APIs:
-	- Designing 
-	- Building RESTful APIs
-	- Consuming RESTful APIs
-6. Security Best Practices:
-	- Common web attacks
-	- Protecting your applications from vulnerabilities 
-		- SQL injection
-		- Cross-site scripting
-		- Cross-site request forgery
+3. [Security Best Practices:](./docs/security-best-practices.md)
+	- [Common Web Attacks](./docs/security-best-practices.md#-common-web-attacks),
+	- [Protecting Applications](./docs/security-best-practices.md#-protecting-applications)
 
 ### Advanced Topics
 1. Regular Expressions:
