@@ -144,27 +144,27 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Real World Usages](./docs/abstraction.md#-real-world-usages)
 
 ### Database Integration
-1. [PHP-MySQL Integration:](./docs/php-mysql-integration.md)
+1. [Database Abstraction Layers:](./docs/database-abstraction-layers.md)
+	- [PDO](./docs/database-abstraction-layers.md#-pdo),
+	- [Prepared Statements](./docs/database-abstraction-layers.md#-prepared-statements),
+	- [Positional and Parameterized Queries](./docs/database-abstraction-layers.md#-positional-and-parameterized-queries)
+2. [PHP-MySQL Integration:](./docs/php-mysql-integration.md)
 	- [MySQL Overview](./docs/php-mysql-integration.md#-mysql-overview),
 	- [Connecting to a MySQL Database](./docs/php-mysql-integration.md#-connecting-to-a-mysql-database),
 	- [Executing SQL Queries](./docs/php-mysql-integration.md#-executing-sql-queries),
 	- [Updating and Deleting Data](./docs/php-mysql-integration.md#-updating-and-deleting-data)
-2. [Database Abstraction Layers:](./docs/database-abstraction-layers.md)
-	- [PDO](./docs/database-abstraction-layers.md#-pdo),
-	- [Prepared Statements](./docs/database-abstraction-layers.md#-prepared-statements),
-	- [Positional and Parameterized Queries](./docs/database-abstraction-layers.md#-positional-and-parameterized-queries)
 
 ### Web Development with PHP
-1. Web Frameworks:
-	- Introduction to Popular PHP frameworks
-	- Benefits of using frameworks
+1. [Web Frameworks:](./docs/web-frameworks.md)
+	- [Need of Framework in PHP](./docs/web-frameworks.md#-need-of-framework-in-php),
+	- [Popular Frameworks](./docs/web-frameworks.md#-popular-frameworks)
 2. MVC Architecture:
 	- Understanding Model-View-Controller
 	- Building web applications using MVC
 3. Routing:
 	- Mapping URLs to specific actions
-4. Template Engines:
-	- Using templates for dynamic content generation
+<!-- 4. Template Engines: -->
+	<!-- - Using templates for dynamic content generation -->
 5. RESTful APIs:
 	- Designing 
 	- Building RESTful APIs

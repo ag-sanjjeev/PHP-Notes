@@ -17,6 +17,8 @@ Common things for MySQL is Preferable with PHP:
 - Performance: It is known for high performance and scalability.
 - Security: It has robust security features to protect sensitive data.
 
+Learn MySQL basics from this [MySQL Notes](https://github.com/ag-sanjjeev/mysql-notes) repository.
+
 ### &#10022; Connecting to a MySQL Database:
 To connect to a MySQL database in PHP, use either the `MySQLi` extension or `PDO` (PHP Data Objects).
 
@@ -124,6 +126,6 @@ $stmt->execute();
 ---
 [&#8682; To Top](#-php-mysql-integration)
 
-[&#10094; Previous Topic](./abstraction.md) &emsp; [Next Topic &#10095;](./database-abstraction-layers.md)
+[&#10094; Previous Topic](./database-abstraction-layers.md) &emsp; [Next Topic &#10095;](./web-frameworks.md)
 
 [&#8962; Goto Home Page](../README.md)
