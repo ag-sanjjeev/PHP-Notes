@@ -158,9 +158,11 @@ This repository contains PHP topics and their notes to learn from beginner level
 1. [Web Frameworks:](./docs/web-frameworks.md)
 	- [Need of Framework in PHP](./docs/web-frameworks.md#-need-of-framework-in-php),
 	- [Popular Frameworks](./docs/web-frameworks.md#-popular-frameworks)
-2. MVC Architecture:
-	- Understanding Model-View-Controller
-	- Building web applications using MVC
+2. [MVC Architecture:](./docs/mvc-architecture.md)
+	- [Understanding MVC Architecture](./docs/mvc-architecture.md#-understanding-mvc-architecture),
+	- [Building MVC](./docs/mvc-architecture.md#-building-mvc),
+	- [How it works](./docs/mvc-architecture.md#-how-it-works),
+	- [Advantages of MVC](./docs/mvc-architecture.md#-advantages-of-mvc)
 3. Routing:
 	- Mapping URLs to specific actions
 <!-- 4. Template Engines: -->
