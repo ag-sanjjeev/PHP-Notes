@@ -13,12 +13,24 @@ JSON stands for JavaScript Object Notation. JSON is independent of any programmi
 ### &#10022; Parsing XML:
 To parse XML documents in PHP with the help of DOM (Document Object Model) using `simplexml_load_string` function. It creates a tree-like structure to represent the XML document and It allows complex manipulations.
 
-  ```php
-  $xml = simplexml_load_string('<note><to>Kumar</to><from>Velan</from><heading>Important Message</heading><body>This is greeting from Velan. How are you?</body></note>');
+```php
+$xmlstring = '<note><to>Kumar</to><from>Velan</from><heading>Important Message</heading><body>This is greeting from Velan. How are you?</body></note>';
+$xml = simplexml_load_string($xmlstring);
 
-  echo $xml->to;
-  echo $xml->from;
-  ```
+echo $xml->to;
+echo $xml->from;
+```
+
+- Using `DOMDocument`, It is more powerful for complex XML structures.and It allows to manipulate the XML document as a tree structure.
+
+```php
+$xmlstring = '<note><to>Kumar</to><from>Velan</from><heading>Important Message</heading><body>This is greeting from Velan. How are you?</body></note>';
+$doc = new DOMDocument();
+$doc->loadXML($xmlstring);
+
+$to = $doc->getElementsByTagName('to')->item(0)->nodeValue;
+echo $to;
+```
 
 ### &#10022; Parsing JSON:
 To parse JSON string into array in PHP using `json_decode` function.
@@ -42,6 +54,34 @@ $xml->addChild('heading', 'Important Message');
 $xml->addChild('body', 'This is greeting from Velan. How are you?');
 
 echo $xml->asXML();
+```
+
+- Using `DOMDocument` to create XML in PHP.
+
+```php
+$doc = new DOMDocument();
+$doc->formatOutput = true;
+
+$root = $doc->createElement('note');
+$doc->appendChild($root);
+
+$to = $doc->createElement('to');
+$to->appendChild($doc->createTextNode('Kumar'));
+$root->appendChild($to);
+
+$from = $doc->createElement('from');
+$from->appendChild($doc->createTextNode('Velan'));
+$root->appendChild($from);
+
+$heading = $doc->createElement('heading');
+$heading->appendChild($doc->createTextNode('Important Message'));
+$root->appendChild($heading);
+
+$body = $doc->createElement('body');
+$body->appendChild($doc->createTextNode('This is greeting from Velan. How are you?'));
+$root->appendChild($body);
+
+echo $doc->saveXML();
 ```
 
 ### &#10022; Generating JSON:
