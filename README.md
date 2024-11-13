@@ -180,8 +180,9 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Generating XML](./docs/xml-and-json.md#-generating-xml),
 	- [Generating JSON](./docs/xml-and-json.md#-generating-json),
 	- [Key Points](./docs/xml-and-json.md#-key-points)
-3. CLI with PHP:
-	- Executing PHP scripts from the command line
+3. [CLI with PHP:](./docs/cli-with-php.md)
+	- [Executing PHP Script in Command Line](./docs/cli-with-php.md#-executing-php-script-in-command-line),
+	- [Accepting Command Line Arguments](./docs/cli-with-php.md#-accepting-command-line-arguments)
 4. Debugging and Profiling:
 	- Advanced debugging techniques
 	- Performance optimization	
