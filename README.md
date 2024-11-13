@@ -174,9 +174,12 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Extracting Text](./docs/regular-expressions.md#-extracting-text),
 	- [Validate Text](./docs/regular-expressions.md#-validate-text),
 	- [Common Patterns](./docs/regular-expressions.md#-common-patterns)
-2. XML and JSON:
-	- Parsing 
-	- Generating XML and JSON data
+2. [XML and JSON:](./docs/xml-and-json.md)
+	- [Parsing XML](./docs/xml-and-json.md#-parsing-xml),
+	- [Parsing JSON](./docs/xml-and-json.md#-parsing-json),
+	- [Generating XML](./docs/xml-and-json.md#-generating-xml),
+	- [Generating JSON](./docs/xml-and-json.md#-generating-json),
+	- [Key Points](./docs/xml-and-json.md#-key-points)
 3. CLI with PHP:
 	- Executing PHP scripts from the command line
 4. Debugging and Profiling:
