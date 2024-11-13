@@ -168,9 +168,12 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Protecting Applications](./docs/security-best-practices.md#-protecting-applications)
 
 ### Advanced Topics
-1. Regular Expressions:
-	- Pattern matching
-	- Text manipulation
+1. [Regular Expressions:](./docs/regular-expressions.md)
+	- [Pattern Matching](./docs/regular-expressions.md#-pattern-matching),
+	- [Find and Replacing Text](./docs/regular-expressions.md#-find-and-replacing-text),
+	- [Extracting Text](./docs/regular-expressions.md#-extracting-text),
+	- [Validate Text](./docs/regular-expressions.md#-validate-text),
+	- [Common Patterns](./docs/regular-expressions.md#-common-patterns)
 2. XML and JSON:
 	- Parsing 
 	- Generating XML and JSON data
