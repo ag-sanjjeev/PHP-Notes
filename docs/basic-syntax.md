@@ -109,6 +109,6 @@ echo $a && $b;     // Output: true (both conditions true)
 ---
 [&#8682; To Top](#-basic-syntax)
 
-[&#10094; Previous Topic](../introduction.md) &emsp; [Next Topic &#10095;](./control-flow.md)
+[&#10094; Previous Topic](../introduction.md) &emsp; [Next Topic &#10095;](./comments.md)
 
 [&#8962; Goto Home Page](../README.md)
