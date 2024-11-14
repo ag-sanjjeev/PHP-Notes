@@ -17,6 +17,7 @@ This repository contains PHP topics and their notes to learn from beginner level
 2. [Basic Syntax:](./docs/basic-syntax.md)
 	- [Variables](./docs/basic-syntax.md#-variables)
 	- [Data Types](./docs/basic-syntax.md#-data-types)
+	- [Strings](./docs/basic-syntax.md#-strings)
 	- [Operators](./docs/basic-syntax.md#-operators)
 3. [Control flow:](./docs/control-flow.md)
 	- [If Else Statements](./docs/control-flow.md#-if-else-statements)

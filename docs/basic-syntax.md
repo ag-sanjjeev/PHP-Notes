@@ -4,7 +4,8 @@ PHP has certain syntax and structure to create a valid script that executes on w
 ### &#9780; Overview:
 1. [Variables](#-variables)
 2. [Data Types](#-data-types)
-3. [Operators](#-operators)
+3. [Strings](#-strings)
+4. [Operators](#-operators)
 
 ### &#10022; Variables:
 It is used to store data that can be handled throughout the program. To declare a variable in PHP using a `$` symbol followed by a name. The variable name should follow certain rules:
@@ -36,6 +37,43 @@ $age = 30;              // Integer variable
 $pi = 3.14159;          // Float variable
 $is_loggedin = true;    // Boolean variable (TRUE)
 ```
+
+### &#10022; Strings:
+A string is a sequence of characters in PHP. Which is enclosed within single quotes (`'`) or double quotes (`"`). 
+
+- Basic String Declaration:
+
+```php
+$string1 = 'Welcome, User!';
+$string2 = "This is a sample string with \"double quotes\".";
+```
+
+- String Concatenation:
+It is a process of joining two or more strings together. The `.` (dot) operator is used to concatenate strings in PHP.
+
+```php
+$firstName = "Kumar";
+$lastName = "Velan";
+$fullName = $firstName . " " . $lastName;
+echo $fullName; // Output: Kumar Velan
+```
+
+- String Functions:
+PHP provides a variety of built-in functions for handling and manipulating strings:
+
+	- `strlen()`: Returns the length of a string.
+	- `strpos()`: Returns the position of a substring within a string.
+	- `strrpos()`: Returns the last occurrence of a substring within a string.
+	- `substr()`: Extracts a portion of substring from a string.
+	- `str_replace()`: Replaces all occurrences of a substring with another string.
+	- `strtolower()`: Converts a string to lowercase.
+	- `strtoupper()`: Converts a string to uppercase.
+	- `trim()`: Removes whitespace from the beginning and end of a string.
+	- `explode()`: Splits a string into an array based on given a delimiter.
+	- `implode()`: Joins the elements of an array into a string.
+	- `str_shuffle()`: Returns shuffled characters of a given string.
+	- `md5()`: Calculates the MD5 hash of a string.
+	- `sha1()`: Calculates the SHA-1 hash of a string.
 
 ### &#10022; Operators:
 It can perform operations on variables and values. Common operators in PHP:
