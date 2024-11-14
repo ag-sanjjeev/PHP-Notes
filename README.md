@@ -2,7 +2,7 @@
 
 This repository contains PHP topics and their notes to learn from beginner level to advanced level.
 
-*Refer the below contents, To kick start the learning of web application development with PHP. which gives you __step by step__ approach to the concepts.*
+*Refer the below contents, To kick start the learning of important concepts in PHP for web application development. which gives you __step by step__ approach to the concepts.*
 \
 &nbsp;
 
@@ -186,15 +186,9 @@ This repository contains PHP topics and their notes to learn from beginner level
 4. [Performance optimization:](./docs/performance-optimization.md)
 	- [Caching Techniques](./docs/performance-optimization.md#-caching-techniques),
 	- [Code Optimization](./docs/performance-optimization.md#-code-optimization)
-5. Unit Testing:
-	- Writing unit tests for PHP code
-6. Design Patterns:
-	- Applying design patterns for better code organization and reusability
-7. Composer:
-	- ...
-8. PSR Standards
 
-By following this roadmap and consistently practicing, you can develop a strong foundation in PHP and build impressive web applications.
+
+By following this road map and consistently practicing, you can develop a strong foundation in PHP and build impressive web applications.
 
 ## &#9873; Contribution
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. Make sure to follow the existing coding style and provide clear documentation for your changes.
