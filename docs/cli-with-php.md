@@ -28,6 +28,6 @@ foreach ($argv as $arg) {
 ---
 [&#8682; To Top](#-cli-with-php)
 
-[&#10094; Previous Topic](./xml-and-json.md) &emsp; [Next Topic &#10095;](./debugging-and-profiling.md)
+[&#10094; Previous Topic](./xml-and-json.md) &emsp; [Next Topic &#10095;](./performance-optimization.md)
 
 [&#8962; Goto Home Page](../README.md)
