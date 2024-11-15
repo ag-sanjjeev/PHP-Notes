@@ -201,7 +201,7 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Code Optimization](./docs/performance-optimization.md#-code-optimization)
 
 
-By following this road map and consistently practicing, you can develop a strong foundation in PHP and build impressive web applications.
+By following this road map and consistently practicing, you can develop a strong foundation in PHP and build impressive web applications. For better understanding and double check with Official [PHP manual](https://www.php.net/manual/en/index.php), Before proceed in real-time implementations.
 
 ## &#9873; Contribution
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. Make sure to follow the existing coding style and provide clear documentation for your changes.
