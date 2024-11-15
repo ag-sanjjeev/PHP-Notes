@@ -2,7 +2,7 @@
 It is one of the application development technique that provides a structure for developing web applications on it. It offers a set of built-in functions, helpers and libraries to streamline the development process, making it more efficient and secure. 
 
 ### &#9780; Overview:
-1. [Need of Framework in PHP](#-need-of-framework-in-php),
+1. [Need of Framework in PHP](#-need-of-framework-in-php)
 2. [Popular Frameworks](#-popular-frameworks)
 
 ### &#10022; Need of Framework in PHP:

@@ -4,10 +4,10 @@ XML stands for Extensible Markup Language. XML supports information exchange bet
 JSON stands for JavaScript Object Notation. JSON is independent of any programming language. and common API output in wide range of applications.
 
 ### &#9780; Overview:
-1. [Parsing XML](#-parsing-xml),
-2. [Parsing JSON](#-parsing-json),
-3. [Generating XML](#-generating-xml),
-4. [Generating JSON](#-generating-json),
+1. [Parsing XML](#-parsing-xml)
+2. [Parsing JSON](#-parsing-json)
+3. [Generating XML](#-generating-xml)
+4. [Generating JSON](#-generating-json)
 5. [Key Points](#-key-points)
 
 ### &#10022; Parsing XML:

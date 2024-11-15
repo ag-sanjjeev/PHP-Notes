@@ -2,11 +2,11 @@
 It is a small text file stored on a users computer by a web server. It contains information about the user interaction and preferences with the website, such as login status, theme and shopping cart items.
 
 ### &#9780; Overview:
-1. [Need and Usage](#-need-and-usage),
-2. [Creating a cookie](#-creating-a-cookie),
-3. [Modifying a cookie](#-modifying-a-cookie),
-4. [Deleting a cookie](#-deleting-a-cookie),
-5. [Pros](#-pros),
+1. [Need and Usage](#-need-and-usage)
+2. [Creating a cookie](#-creating-a-cookie)
+3. [Modifying a cookie](#-modifying-a-cookie)
+4. [Deleting a cookie](#-deleting-a-cookie)
+5. [Pros](#-pros)
 6. [Cons](#-cons)
 
 ### &#10022; Need and Usage:

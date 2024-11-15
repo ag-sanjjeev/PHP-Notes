@@ -2,10 +2,10 @@
 Abstraction is one of the fundamental concept in object-oriented programming that deals with an object by hiding unnecessary implementation details and by revealing essential features of it. In PHP, abstraction can be achieved using abstract classes, interfaces, and traits.
 
 ### &#9780; Overview:
-1. [Abstract Classes](#-abstract-classes),
-2. [Interfaces](#-interfaces),
-3. [Traits](#-traits),
-4. [Key Points](#-key-points),
+1. [Abstract Classes](#-abstract-classes)
+2. [Interfaces](#-interfaces)
+3. [Traits](#-traits)
+4. [Key Points](#-key-points)
 5. [Real World Usages](#-real-world-usages)
 
 ### &#10022; Abstract Classes:

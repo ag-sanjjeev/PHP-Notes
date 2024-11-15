@@ -2,9 +2,9 @@
 Comments are non-executable code in the script that can be added to PHP script to explain the code functionality and other useful information related to the script. Which improves readability and helpful in future for maintenance.
 
 ### &#9780; Overview:
-1. [Single Line Comments](#-single-line-comments),
-2. [Multi Line Comments](#-multi-line-comments),
-3. [Doc Comments](#-doc-comments),
+1. [Single Line Comments](#-single-line-comments)
+2. [Multi Line Comments](#-multi-line-comments)
+3. [Doc Comments](#-doc-comments)
 4. [Hash Comments](#-hash-comments)
 
 ### &#10022; Single Line Comments:

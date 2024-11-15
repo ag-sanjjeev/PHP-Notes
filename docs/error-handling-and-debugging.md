@@ -2,14 +2,14 @@
 Error handling is an essential practice in web applications to ensure the reliability and robustness of the applications. Error handling involves identifying and managing various levels of errors that occur during the execution of the code, while debugging involves finding and fixing the root cause of these errors.
 
 ### &#9780; Overview:
-1. [Identifying Errors](#-identifying-errors),
-2. [Debugging Techniques](#-debugging-techniques),
-3. [Error Levels](#-error-levels),
-4. [Log Levels](#-log-levels),
-5. [Logging to a File](#-logging-to-a-file),
-6. [Logging to a Database](#-logging-to-a-database),
-7. [Error Logging Formats](#-error-logging-formats),
-8. [Key Points](#-key-points),
+1. [Identifying Errors](#-identifying-errors)
+2. [Debugging Techniques](#-debugging-techniques)
+3. [Error Levels](#-error-levels)
+4. [Log Levels](#-log-levels)
+5. [Logging to a File](#-logging-to-a-file)
+6. [Logging to a Database](#-logging-to-a-database)
+7. [Error Logging Formats](#-error-logging-formats)
+8. [Key Points](#-key-points)
 9. [Log Rotation](#-log-rotation)
 
 ### &#10022; Identifying Errors:

@@ -2,12 +2,12 @@
 File handling in PHP involves working with files on the server, such as creating, reading, writing, and manipulating files with their contents. This is essential tasks on server like storing and retrieving data, generating dynamic content, and managing file uploads.
 
 ### &#9780; Overview:
-1. [Handling Directory](#-handling-directory),
-2. [Handling File](#-handling-file),
-3. [Uploading a file](#-uploading-a-file),
-4. [Downloading a file](#-downloading-a-file),
-5. [File Handling Flags](#-file-handling-flags),
-6. [Common File Handling Functions](#-common-file-handling-functions),
+1. [Handling Directory](#-handling-directory)
+2. [Handling File](#-handling-file)
+3. [Uploading a file](#-uploading-a-file)
+4. [Downloading a file](#-downloading-a-file)
+5. [File Handling Flags](#-file-handling-flags)
+6. [Common File Handling Functions](#-common-file-handling-functions)
 7. [Security Considerations](#-security-considerations)
 
 ### &#10022; Handling Directory:

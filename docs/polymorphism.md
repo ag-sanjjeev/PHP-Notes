@@ -2,7 +2,7 @@
 Polymorphism is a concept in object-oriented programming that allows objects of different types to be treated as if they were of the same type. In PHP, it is primarily achieved through method overriding and method overloading.
 
 ### &#9780; Overview:
-1. [Method Overloading](#-method-overloading),
+1. [Method Overloading](#-method-overloading)
 2. [Method Overriding](#-method-overriding)
 
 ### &#10022; Method Overloading:

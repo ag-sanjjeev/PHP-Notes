@@ -2,8 +2,8 @@
 PHP can integrate with different database and protect from various security attacks with database abstraction layers. It can provide approach to connect different databases with same method and perform database operations.
 
 ### &#9780; Overview:
-1. [PDO](#-pdo),
-2. [Prepared Statements](#-prepared-statements),
+1. [PDO](#-pdo)
+2. [Prepared Statements](#-prepared-statements)
 3. [Positional and Parameterized Queries](#-positional-and-parameterized-queries)
 
 ### &#10022; PDO:

@@ -2,10 +2,10 @@
 Regular expressions also known as Regex. These are a powerful tool used for pattern matching and text manipulation. It provide a flexible way to find, replace, and validate text or strings.
 
 ### &#9780; Overview:
-1. [Pattern Matching](#-pattern-matching),
-2. [Find and Replacing Text](#-find-and-replacing-text),
-3. [Extracting Text](#-extracting-text),
-4. [Validate Text](#-validate-text),
+1. [Pattern Matching](#-pattern-matching)
+2. [Find and Replacing Text](#-find-and-replacing-text)
+3. [Extracting Text](#-extracting-text)
+4. [Validate Text](#-validate-text)
 5. [Common Patterns](#-common-patterns)
 
 ### &#10022; Pattern Matching:

@@ -2,7 +2,7 @@
 When comes into web application development, The important thing is providing security to the application and data.
 
 ### &#9780; Overview:
-1. [Common Web Attacks](#-common-web-attacks),
+1. [Common Web Attacks](#-common-web-attacks)
 2. [Protecting Applications](#-protecting-applications)
 
 ### &#10022; Common Web Attacks:

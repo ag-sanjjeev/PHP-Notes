@@ -3,14 +3,14 @@ Encapsulation is a fundamental principle in object-oriented programming that inv
 
 ### &#9780; Overview:
 1. [Access Modifiers](#-access-modifiers)
-	- [Public](#-public),
-	- [Protected](#-protected),
+	- [Public](#-public)
+	- [Protected](#-protected)
 	- [Private](#-private)
 
 ### &#10022; Access Modifiers:
 PHP provides three access modifiers to control the visibility of class members:
-- [Public](#-public),
-- [Protected](#-protected),
+- [Public](#-public)
+- [Protected](#-protected)
 - [Private](#-private)
 
 ### &#10022; Public:

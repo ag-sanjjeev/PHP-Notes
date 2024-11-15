@@ -3,10 +3,10 @@
 `Object`: It is an instance of a class. It represents a specific entity with own state of properties and behavior of methods.
 
 ### &#9780; Overview:
-1. [Defining Classes](#-defining-classes),
-2. [Properties and Methods](#-properties-and-methods),
-3. [Creating Objects](#-creating-objects),
-4. [Object Destruction](#-object-destruction),
+1. [Defining Classes](#-defining-classes)
+2. [Properties and Methods](#-properties-and-methods)
+3. [Creating Objects](#-creating-objects)
+4. [Object Destruction](#-object-destruction)
 5. [Key Points](#-key-points)
 
 ### &#10022; Defining Classes:

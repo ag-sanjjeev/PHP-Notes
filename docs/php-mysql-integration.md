@@ -2,9 +2,9 @@
 PHP offer to establish connection to the popular databases. Here, PHP can integrate MySQL database easily for querying data from database.
 
 ### &#9780; Overview:
-1. [MySQL Overview](#-mysql-overview),
-2. [Connecting to a MySQL Database](#-connecting-to-a-mysql-database),
-3. [Executing SQL Queries](#-executing-sql-queries),
+1. [MySQL Overview](#-mysql-overview)
+2. [Connecting to a MySQL Database](#-connecting-to-a-mysql-database)
+3. [Executing SQL Queries](#-executing-sql-queries)
 4. [Updating and Deleting Data](#-updating-and-deleting-data)
 
 ### &#10022; MySQL Overview:

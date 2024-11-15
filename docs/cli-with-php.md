@@ -2,7 +2,7 @@
 PHP offers to execute script through command line.
 
 ### &#9780; Overview:
-1. [Executing PHP Script in Command Line](#-executing-php-script-in-command-line),
+1. [Executing PHP Script in Command Line](#-executing-php-script-in-command-line)
 2. [Accepting Command Line Arguments](#-accepting-command-line-arguments)
 
 ### &#10022; Executing PHP Script in Command Line:

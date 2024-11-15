@@ -2,7 +2,7 @@
 It is an important thing when comes into web application development. and it is noticeable issue for a large scale application. It is required to improve the speed of the process and optimizing the performance of overall application.
 
 ### &#9780; Overview:
-1. [Caching Techniques](#-caching-techniques),
+1. [Caching Techniques](#-caching-techniques)
 2. [Code Optimization](#-code-optimization)
 
 ### &#10022; Caching Techniques:

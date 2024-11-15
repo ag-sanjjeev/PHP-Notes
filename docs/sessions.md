@@ -2,22 +2,22 @@
 A session is a way to store information about a user interaction with a website across multiple page requests. It allows to maintain information and state between requests, such as user preferences, login status, or temporary items such as a shopping cart, a wish list.
 
 ### &#9780; Overview:
-1. [Need and Usage](#-need-and-usage),
-2. [Creating Session](#-creating-session),
-3. [Storing Data in Session](#-storing-data-in-session),
-4. [Retrieving Data from Session](#-retrieving-data-from-session),
-5. [Removing Session Data](#-removing-session-data),
-6. [Destroying Session](#-destroying-session),
-7. [Pros](#-pros),
-8. [Cons](#-cons),
-9. [Functions Related To Session](#-functions-related-to-session),
-10. [Constants Related To Session](#-constants-related-to-session),
-11. [Configuration Flags Related To Session](#-configuration-flags-related-to-session),
-12. [Different Session Handling Techniques](#-different-session-handling-techniques),
-13. [Secure Session Handling](#-secure-session-handling),
-14. [Strong Session Name](#-strong-session-name),
-15. [Session Handlers](#-session-handlers),
-16. [Example For Custom Session Handlers](#-example-for-custom-session-handlers),
+1. [Need and Usage](#-need-and-usage)
+2. [Creating Session](#-creating-session)
+3. [Storing Data in Session](#-storing-data-in-session)
+4. [Retrieving Data from Session](#-retrieving-data-from-session)
+5. [Removing Session Data](#-removing-session-data)
+6. [Destroying Session](#-destroying-session)
+7. [Pros](#-pros)
+8. [Cons](#-cons)
+9. [Functions Related To Session](#-functions-related-to-session)
+10. [Constants Related To Session](#-constants-related-to-session)
+11. [Configuration Flags Related To Session](#-configuration-flags-related-to-session)
+12. [Different Session Handling Techniques](#-different-session-handling-techniques)
+13. [Secure Session Handling](#-secure-session-handling)
+14. [Strong Session Name](#-strong-session-name)
+15. [Session Handlers](#-session-handlers)
+16. [Example For Custom Session Handlers](#-example-for-custom-session-handlers)
 17. [Protecting Against Session Fixation](#-protecting-against-session-fixation)
 
 ### &#10022; Need and Usage:

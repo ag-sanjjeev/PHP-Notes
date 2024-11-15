@@ -16,9 +16,9 @@ Arrays are fundamental data structures in PHP. It allows to store and manage col
 
 ### &#10022; Array Types:
 PHP has 3 types of arrays.
-  1. [Indexed Array](#-indexed-array),
-  2. [Associative Array](#-associative-array),
-  3. [Multi Dimensional Array](#-multi-dimensional-array).
+  1. [Indexed Array](#-indexed-array)
+  2. [Associative Array](#-associative-array)
+  3. [Multi Dimensional Array](#-multi-dimensional-array)
 
 ### &#10022; Indexed Array:
 This indexed arrays are holding collection of items in ordered manner, where each item is accessed by a numerical index starting from 0.

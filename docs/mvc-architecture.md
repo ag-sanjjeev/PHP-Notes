@@ -2,9 +2,9 @@
 MVC stands for Model View Controller. It is a design pattern that separates an application into three interconnected parts.
 
 ### &#9780; Overview:
-1. [Understanding MVC Architecture](#-understanding-mvc-architecture),
-2. [Building MVC](#-building-mvc),
-3. [How it works](#-how-it-works),
+1. [Understanding MVC Architecture](#-understanding-mvc-architecture)
+2. [Building MVC](#-building-mvc)
+3. [How it works](#-how-it-works)
 4. [Advantages of MVC](#-advantages-of-mvc)
 
 ### &#10022; Understanding MVC Architecture:

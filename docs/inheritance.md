@@ -2,8 +2,8 @@
 Inheritance is a fundamental concept in object-oriented programming that allows to create new classes with properties and methods of existing classes. It promotes code reusability and helps to organize complex application systems.
 
 ### &#9780; Overview:
-1. [Extending Classes](#-extending-classes),
-2. [Overriding Methods](#-overriding-methods),
+1. [Extending Classes](#-extending-classes)
+2. [Overriding Methods](#-overriding-methods)
 3. [Key Points](#-key-points)
 
 ### &#10022; Extending Classes:
