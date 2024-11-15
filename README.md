@@ -80,117 +80,124 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Input Sanitization](./docs/forms-and-data-handling.md#-input-sanitization)
 	- [Filter Variable Flags](./docs/forms-and-data-handling.md#-filter-variable-flags)
 3. [Sessions:](./docs/sessions.md)
-	- [Need and Usage](./docs/sessions.md#-need-and-usage),
-	- [Creating Session](./docs/sessions.md#-creating-session),
-	- [Storing Data in Session](./docs/sessions.md#-storing-data-in-session),
-	- [Retrieving Data from Session](./docs/sessions.md#-retrieving-data-from-session),
-	- [Removing Session Data](./docs/sessions.md#-removing-session-data),
-	- [Destroying Session](./docs/sessions.md#-destroying-session),
-	- [Pros](./docs/sessions.md#-pros),
-	- [Cons](./docs/sessions.md#-cons),
-	- [Functions Related To Session](./docs/sessions.md#-functions-related-to-session),
-	- [Constants Related To Session](./docs/sessions.md#-constants-related-to-session),
-	- [Configuration Flags Related To Session](./docs/sessions.md#-configuration-flags-related-to-session),
-	- [Different Session Handling Techniques](./docs/sessions.md#-different-session-handling-techniques),
-	- [Secure Session Handling](./docs/sessions.md#-secure-session-handling),
-	- [Strong Session Name](./docs/sessions.md#-strong-session-name),
-	- [Session Handlers](./docs/sessions.md#-session-handlers),
-	- [Example For Custom Session Handlers](./docs/sessions.md#-example-for-custom-session-handlers),
+	- [Need and Usage](./docs/sessions.md#-need-and-usage)
+	- [Creating Session](./docs/sessions.md#-creating-session)
+	- [Storing Data in Session](./docs/sessions.md#-storing-data-in-session)
+	- [Retrieving Data from Session](./docs/sessions.md#-retrieving-data-from-session)
+	- [Removing Session Data](./docs/sessions.md#-removing-session-data)
+	- [Destroying Session](./docs/sessions.md#-destroying-session)
+	- [Pros](./docs/sessions.md#-pros)
+	- [Cons](./docs/sessions.md#-cons)
+	- [Functions Related To Session](./docs/sessions.md#-functions-related-to-session)
+	- [Constants Related To Session](./docs/sessions.md#-constants-related-to-session)
+	- [Configuration Flags Related To Session](./docs/sessions.md#-configuration-flags-related-to-session)
+	- [Different Session Handling Techniques](./docs/sessions.md#-different-session-handling-techniques)
+	- [Secure Session Handling](./docs/sessions.md#-secure-session-handling)
+	- [Strong Session Name](./docs/sessions.md#-strong-session-name)
+	- [Session Handlers](./docs/sessions.md#-session-handlers)
+	- [Example For Custom Session Handlers](./docs/sessions.md#-example-for-custom-session-handlers)
 	- [Protecting Against Session Fixation](./docs/sessions.md#-protecting-against-session-fixation)
 4. [Cookies:](./docs/cookies.md)
-	- [Need and Usage](./docs/cookies.md#-need-and-usage),
-	- [Creating a cookie](./docs/cookies.md#-creating-a-cookie),
-	- [Modifying a cookie](./docs/cookies.md#-modifying-a-cookie),
-	- [Deleting a cookie](./docs/cookies.md#-deleting-a-cookie),
-	- [Pros](./docs/cookies.md#-pros),
+	- [Need and Usage](./docs/cookies.md#-need-and-usage)
+	- [Creating a cookie](./docs/cookies.md#-creating-a-cookie)
+	- [Modifying a cookie](./docs/cookies.md#-modifying-a-cookie)
+	- [Deleting a cookie](./docs/cookies.md#-deleting-a-cookie)
+	- [Pros](./docs/cookies.md#-pros)
 	- [Cons](./docs/cookies.md#-cons)
 5. [File Handling:](./docs/file-handling.md)
-	- [Handling Directory](./docs/file-handling.md#-handling-directory),
-	- [Handling File](./docs/file-handling.md#-handling-file),
-	- [Uploading a file](./docs/file-handling.md#-uploading-a-file),
-	- [Downloading a file](./docs/file-handling.md#-downloading-a-file),
-	- [File Handling Flags](./docs/file-handling.md#-file-handling-flags),
-	- [Common File Handling Functions](./docs/file-handling.md#-common-file-handling-functions),
+	- [Handling Directory](./docs/file-handling.md#-handling-directory)
+	- [Handling File](./docs/file-handling.md#-handling-file)
+	- [Uploading a file](./docs/file-handling.md#-uploading-a-file)
+	- [Downloading a file](./docs/file-handling.md#-downloading-a-file)
+	- [File Handling Flags](./docs/file-handling.md#-file-handling-flags)
+	- [Common File Handling Functions](./docs/file-handling.md#-common-file-handling-functions)
 	- [Security Considerations](./docs/file-handling.md#-security-considerations)
 6. [Error Handling and Debugging:](./docs/error-handling-and-debugging.md)
-	- [Identifying Errors](./docs/error-handling-and-debugging.md#-identifying-errors),
-	- [Debugging Techniques](./docs/error-handling-and-debugging.md#-debugging-techniques),
-	- [Error Levels](./docs/error-handling-and-debugging.md#-error-levels),
-	- [Log Levels](./docs/error-handling-and-debugging.md#-log-levels),
-	- [Logging to a File](./docs/error-handling-and-debugging.md#-logging-to-a-file),
-	- [Logging to a Database](./docs/error-handling-and-debugging.md#-logging-to-a-database),
-	- [Error Logging Formats](./docs/error-handling-and-debugging.md#-error-logging-formats),
-	- [Key Points](./docs/error-handling-and-debugging.md#-key-points),
+	- [Identifying Errors](./docs/error-handling-and-debugging.md#-identifying-errors)
+	- [Debugging Techniques](./docs/error-handling-and-debugging.md#-debugging-techniques)
+	- [Error Levels](./docs/error-handling-and-debugging.md#-error-levels)
+	- [Log Levels](./docs/error-handling-and-debugging.md#-log-levels)
+	- [Logging to a File](./docs/error-handling-and-debugging.md#-logging-to-a-file)
+	- [Logging to a Database](./docs/error-handling-and-debugging.md#-logging-to-a-database)
+	- [Error Logging Formats](./docs/error-handling-and-debugging.md#-error-logging-formats)
+	- [Key Points](./docs/error-handling-and-debugging.md#-key-points)
 	- [Log Rotation](./docs/error-handling-and-debugging.md#-log-rotation)
 
 ### Object-Oriented Programming in PHP
 1. [Classes and Objects:](./docs/classes-and-objects.md)
-	- [Defining Classes](./docs/classes-and-objects.md#-defining-classes),
-	- [Properties and Methods](./docs/classes-and-objects.md#-properties-and-methods),
-	- [Creating Objects](./docs/classes-and-objects.md#-creating-objects),
-	- [Object Destruction](./docs/classes-and-objects.md#-object-destruction),
+	- [Defining Classes](./docs/classes-and-objects.md#-defining-classes)
+	- [Properties and Methods](./docs/classes-and-objects.md#-properties-and-methods)
+	- [Creating Objects](./docs/classes-and-objects.md#-creating-objects)
+	- [Object Destruction](./docs/classes-and-objects.md#-object-destruction)
 	- [Key Points](./docs/classes-and-objects.md#-key-points)
 2. [Inheritance:](./docs/inheritance.md)
-	- [Extending Classes](./docs/inheritance.md#-extending-classes),
-	- [Overriding Methods](./docs/inheritance.md#-overriding-methods),
+	- [Extending Classes](./docs/inheritance.md#-extending-classes)
+	- [Overriding Methods](./docs/inheritance.md#-overriding-methods)
 	- [Key Points](./docs/inheritance.md#-key-points)
 3. [Polymorphism:](./docs/polymorphism.md)
-	- [Method Overloading](./docs/polymorphism.md#-method-overloading),
+	- [Method Overloading](./docs/polymorphism.md#-method-overloading)
 	- [Method Overriding](./docs/polymorphism.md#-method-overriding)
 4. [Encapsulation:](./docs/encapsulation.md)
 	- [Access Modifiers](./docs/encapsulation.md#-access-modifiers)
-		- [Public](./docs/encapsulation.md#-public),
-		- [Protected](./docs/encapsulation.md#-protected),
+		- [Public](./docs/encapsulation.md#-public)
+		- [Protected](./docs/encapsulation.md#-protected)
 		- [Private](./docs/encapsulation.md#-private)
 5. [Abstraction:](./docs/abstraction.md)
-	- [Abstract Classes](./docs/abstraction.md#-abstract-classes),
-	- [Interfaces](./docs/abstraction.md#-interfaces),
-	- [Traits](./docs/abstraction.md#-traits),
-	- [Key Points](./docs/abstraction.md#-key-points),
+	- [Abstract Classes](./docs/abstraction.md#-abstract-classes)
+	- [Interfaces](./docs/abstraction.md#-interfaces)
+	- [Traits](./docs/abstraction.md#-traits)
+	- [Key Points](./docs/abstraction.md#-key-points)
 	- [Real World Usages](./docs/abstraction.md#-real-world-usages)
+6. [Namespace:](./docs/namespace.md)
+	- [Use of Namespace](./docs/namespace.md#-use-of-namespace)
+	- [Global Namespace](./docs/namespace.md#-global-namespace)
+	- [Declaration of Namespace](./docs/namespace.md#-declaration-of-namespace)
+	- [Implementation of Namespace](./docs/namespace.md#-implementation-of-namespace)
+	- [Namespace Alias](./docs/namespace.md#-namespace-alias)
+	- [Key Points](./docs/namespace.md#-key-points)
 
 ### Database Integration
 1. [Database Abstraction Layers:](./docs/database-abstraction-layers.md)
-	- [PDO](./docs/database-abstraction-layers.md#-pdo),
-	- [Prepared Statements](./docs/database-abstraction-layers.md#-prepared-statements),
+	- [PDO](./docs/database-abstraction-layers.md#-pdo)
+	- [Prepared Statements](./docs/database-abstraction-layers.md#-prepared-statements)
 	- [Positional and Parameterized Queries](./docs/database-abstraction-layers.md#-positional-and-parameterized-queries)
 2. [PHP-MySQL Integration:](./docs/php-mysql-integration.md)
-	- [MySQL Overview](./docs/php-mysql-integration.md#-mysql-overview),
-	- [Connecting to a MySQL Database](./docs/php-mysql-integration.md#-connecting-to-a-mysql-database),
-	- [Executing SQL Queries](./docs/php-mysql-integration.md#-executing-sql-queries),
+	- [MySQL Overview](./docs/php-mysql-integration.md#-mysql-overview)
+	- [Connecting to a MySQL Database](./docs/php-mysql-integration.md#-connecting-to-a-mysql-database)
+	- [Executing SQL Queries](./docs/php-mysql-integration.md#-executing-sql-queries)
 	- [Updating and Deleting Data](./docs/php-mysql-integration.md#-updating-and-deleting-data)
 
 ### Web Development with PHP
 1. [Web Frameworks:](./docs/web-frameworks.md)
-	- [Need of Framework in PHP](./docs/web-frameworks.md#-need-of-framework-in-php),
+	- [Need of Framework in PHP](./docs/web-frameworks.md#-need-of-framework-in-php)
 	- [Popular Frameworks](./docs/web-frameworks.md#-popular-frameworks)
 2. [MVC Architecture:](./docs/mvc-architecture.md)
-	- [Understanding MVC Architecture](./docs/mvc-architecture.md#-understanding-mvc-architecture),
-	- [Building MVC](./docs/mvc-architecture.md#-building-mvc),
-	- [How it works](./docs/mvc-architecture.md#-how-it-works),
+	- [Understanding MVC Architecture](./docs/mvc-architecture.md#-understanding-mvc-architecture)
+	- [Building MVC](./docs/mvc-architecture.md#-building-mvc)
+	- [How it works](./docs/mvc-architecture.md#-how-it-works)
 	- [Advantages of MVC](./docs/mvc-architecture.md#-advantages-of-mvc)
 3. [Security Best Practices:](./docs/security-best-practices.md)
-	- [Common Web Attacks](./docs/security-best-practices.md#-common-web-attacks),
+	- [Common Web Attacks](./docs/security-best-practices.md#-common-web-attacks)
 	- [Protecting Applications](./docs/security-best-practices.md#-protecting-applications)
 
 ### Advanced Topics
 1. [Regular Expressions:](./docs/regular-expressions.md)
-	- [Pattern Matching](./docs/regular-expressions.md#-pattern-matching),
-	- [Find and Replacing Text](./docs/regular-expressions.md#-find-and-replacing-text),
-	- [Extracting Text](./docs/regular-expressions.md#-extracting-text),
-	- [Validate Text](./docs/regular-expressions.md#-validate-text),
+	- [Pattern Matching](./docs/regular-expressions.md#-pattern-matching)
+	- [Find and Replacing Text](./docs/regular-expressions.md#-find-and-replacing-text)
+	- [Extracting Text](./docs/regular-expressions.md#-extracting-text)
+	- [Validate Text](./docs/regular-expressions.md#-validate-text)
 	- [Common Patterns](./docs/regular-expressions.md#-common-patterns)
 2. [XML and JSON:](./docs/xml-and-json.md)
-	- [Parsing XML](./docs/xml-and-json.md#-parsing-xml),
-	- [Parsing JSON](./docs/xml-and-json.md#-parsing-json),
-	- [Generating XML](./docs/xml-and-json.md#-generating-xml),
-	- [Generating JSON](./docs/xml-and-json.md#-generating-json),
+	- [Parsing XML](./docs/xml-and-json.md#-parsing-xml)
+	- [Parsing JSON](./docs/xml-and-json.md#-parsing-json)
+	- [Generating XML](./docs/xml-and-json.md#-generating-xml)
+	- [Generating JSON](./docs/xml-and-json.md#-generating-json)
 	- [Key Points](./docs/xml-and-json.md#-key-points)
 3. [CLI with PHP:](./docs/cli-with-php.md)
-	- [Executing PHP Script in Command Line](./docs/cli-with-php.md#-executing-php-script-in-command-line),
+	- [Executing PHP Script in Command Line](./docs/cli-with-php.md#-executing-php-script-in-command-line)
 	- [Accepting Command Line Arguments](./docs/cli-with-php.md#-accepting-command-line-arguments)
 4. [Performance optimization:](./docs/performance-optimization.md)
-	- [Caching Techniques](./docs/performance-optimization.md#-caching-techniques),
+	- [Caching Techniques](./docs/performance-optimization.md#-caching-techniques)
 	- [Code Optimization](./docs/performance-optimization.md#-code-optimization)
 
 
