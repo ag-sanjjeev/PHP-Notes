@@ -360,6 +360,6 @@ ini_set('session.cookie_secure', 1);
 ---
 [&#8682; To Top](#-sessions)
 
-[&#10094; Previous Topic](./forms-and-data-handling.md) &emsp; [Next Topic &#10095;](./cookies.md)
+[&#10094; Previous Topic](./headers.md) &emsp; [Next Topic &#10095;](./cookies.md)
 
 [&#8962; Goto Home Page](../README.md)

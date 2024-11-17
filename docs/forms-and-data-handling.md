@@ -157,6 +157,6 @@ $statement->execute(array(':name' => $sanitized_name, ':email' => $sanitized_ema
 ---
 [&#8682; To Top](#-forms-and-data-handling)
 
-[&#10094; Previous Topic](./super-globals.md) &emsp; [Next Topic &#10095;](./sessions.md)
+[&#10094; Previous Topic](./super-globals.md) &emsp; [Next Topic &#10095;](./headers.md)
 
 [&#8962; Goto Home Page](../README.md)
