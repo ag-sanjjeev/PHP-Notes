@@ -291,6 +291,6 @@ It sent to a browser to enhance the security of a web application. By setting th
 ---
 [&#8682; To Top](#-headers)
 
-[&#10094; Previous Topic](./forms-and-data-handling.md) &emsp; [Next Topic &#10095;](./sessions.md)
+[&#10094; Previous Topic](./forms-and-data-handling.md) &emsp; [Next Topic &#10095;](./http-status-code.md)
 
 [&#8962; Goto Home Page](../README.md)
