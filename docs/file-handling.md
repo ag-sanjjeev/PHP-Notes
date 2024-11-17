@@ -213,6 +213,6 @@ $handle = fopen("log.txt", "a");
 ---
 [&#8682; To Top](#-file-handling)
 
-[&#10094; Previous Topic](./cookies.md) &emsp; [Next Topic &#10095;](./error-handling-and-debugging.md)
+[&#10094; Previous Topic](./cookies.md) &emsp; [Next Topic &#10095;](./include-and-require-statements.md)
 
 [&#8962; Goto Home Page](../README.md)

@@ -230,6 +230,6 @@ rotateLog($logFile);
 ---
 [&#8682; To Top](#-error-handling-and-debugging)
 
-[&#10094; Previous Topic](./file-handling.md) &emsp; [Next Topic &#10095;](./classes-and-objects.md)
+[&#10094; Previous Topic](./include-and-require-statements.md) &emsp; [Next Topic &#10095;](./classes-and-objects.md)
 
 [&#8962; Goto Home Page](../README.md)
