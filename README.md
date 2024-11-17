@@ -159,7 +159,10 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Implementation of Namespace](./docs/namespace.md#-implementation-of-namespace)
 	- [Namespace Alias](./docs/namespace.md#-namespace-alias)
 	- [Key Points](./docs/namespace.md#-key-points)
-
+7. [Autoload in PHP](./docs/autoload-in-php.md)
+	- [Built-in Autoloader](./docs/autoload-in-php.md#-built-in-autoloader)
+	- [How it works](./docs/autoload-in-php.md#-how-it-works)
+	
 ### Database Integration
 1. [Database Abstraction Layers:](./docs/database-abstraction-layers.md)
 	- [PDO](./docs/database-abstraction-layers.md#-pdo)

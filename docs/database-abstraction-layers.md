@@ -76,6 +76,6 @@ $stmt->execute();
 ---
 [&#8682; To Top](#-database-abstraction-layers)
 
-[&#10094; Previous Topic](./namespace.md) &emsp; [Next Topic &#10095;](./php-mysql-integration.md)
+[&#10094; Previous Topic](./autoload-in-php.md) &emsp; [Next Topic &#10095;](./php-mysql-integration.md)
 
 [&#8962; Goto Home Page](../README.md)
