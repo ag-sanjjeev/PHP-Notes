@@ -62,6 +62,29 @@ To destroy session use, `session_destroy()` function:
 session_destroy();
 ```
 
+But before destroying session, That require some important steps for secure session destruction. First, Empty or clean the session array variable. Second, Remove session cookie for the current session. Finally, use `session_destroy()` function.
+```php
+// mention the session_name("name") if initially, it was created.
+// start session
+session_start();
+
+// Unset the session array
+$_SESSION = array();
+
+// If it need to destroy the session, then it required to delete the session cookie as well.
+// It removes cookie related to current session
+if (ini_get("session.use_cookies")) {
+    $params = session_get_cookie_params();
+    setcookie(session_name(), '', time() - 42000,
+        $params["path"], $params["domain"],
+        $params["secure"], $params["httponly"]
+    );
+}
+
+// Finally, destroy the session
+session_destroy();
+```
+
 ### &#10022; Pros:
  - User Tracking
  - Personalized Experience
