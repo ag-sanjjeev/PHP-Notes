@@ -79,6 +79,7 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Input Validation](./docs/forms-and-data-handling.md#-input-validation)
 	- [Input Sanitization](./docs/forms-and-data-handling.md#-input-sanitization)
 	- [Filter Variable Flags](./docs/forms-and-data-handling.md#-filter-variable-flags)
+	- [Prevent Duplicate Form Submission](./docs/forms-and-data-handling.md#-prevent-duplicate-form-submission)
 3. [Headers:](./docs/headers.md)
 	- [Setting a Header](./docs/headers.md#-setting-a-header)
 	- [Common Headers](./docs/headers.md#-common-headers)

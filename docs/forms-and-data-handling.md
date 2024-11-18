@@ -7,6 +7,7 @@
 4. [Input Validation](#-input-validation)
 5. [Input Sanitization](#-input-sanitization)
 6. [Filter Variable Flags](#-filter-variable-flags)
+7. [Prevent Duplicate Form Submission](#-prevent-duplicate-form-submission)
 
 ### &#10022; Creating Forms:
 Creating HTML forms with action and method. Which are used to collect user input and required data.
@@ -153,6 +154,114 @@ $statement->execute(array(':name' => $sanitized_name, ':email' => $sanitized_ema
 	- `FILTER_FLAG_ALLOW_THOUSAND`: Allows thousands separators for numbers.
 	- `FILTER_FLAG_ALLOW_SCIENTIFIC`: Allows scientific notation.
 	- `FILTER_FLAG_NO_ENCODE_QUOTES`: Prevents encoding of single and double quotes.
+
+### &#10022; Prevent Duplicate Form Submission:
+When a user submit a form, that form data has processed and shows a response page. If the user resubmit the form by going back to the previous form or page again with browser back navigation option, Then it will give possibilities to resubmit the form. That be a duplicate entry and cause a problem on application. 
+
+**Different approaches to prevent this problem:**
+- Server-side Token Validation:
+
+    Generate validation token in session array
+    ```php
+    session_start();
+
+    // Generate a unique token
+    if (!isset($_SESSION['token'])) {
+        $_SESSION['token'] = bin2hex(random_bytes(32));
+    }
+    ```
+
+    Set validation token in the page or form
+    ```html
+    // set a hidden input field with validation token:
+    <input type="hidden" name="token" value="<?php echo $_SESSION['token']; ?>">
+    ```
+
+    Validate token when reach action page
+    ```php
+    // PHP action script to handle form submission
+    if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+        if ($_POST['token'] === $_SESSION['token']) {
+            // Process the form data
+            unset($_SESSION['token']); // Prevent duplicate submission
+        } else {
+            // Handle invalid token by displaying an error message
+        }
+    }
+    ```
+
+- Setting a header:
+    
+    Server side headers:
+    ```php
+    // Setting an expiry
+    header("Expires: Fri, 01 Jan 2010 00:00:00 GMT"); //Date in the past
+    ```
+
+    ```php
+    // Setting one of the cache control below 
+    header("Cache-Control: private, must-revalidate, max-age=0");
+    header("Cache-Control: no-store, no-cache, must-revalidate"); //HTTP/1.1    
+    header("Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0"); //HTTP/1.1
+    header("Pragma: no-cache");
+    ```
+
+    Client side headers:
+    ```html
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="no-cache">
+    <meta http-equiv="Expires" content="-1">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    ```
+
+- Redirect After Submission (Post-Redirect-Get Pattern):
+    - To avoid these kind of double post form submission or duplicate form submission by redirect completely to the new page as response. It is simply known as post / redirect / get pattern.
+    - This pattern would not allow the form or page again resubmitted by visit back using go back navigation button.
+
+    ```php
+    if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+      // Process form data
+      // redirect with 303 HTTP status code
+      header('Location: thank-you.php', true, 303);
+      exit;
+    }
+    ```
+
+- Client-side JavaScript:
+    
+    Disable submit button:
+    ```html    
+    <form action="submit.php" method="post" onsubmit="disableSubmitButton()">
+      <!-- ... --->
+      <button type="submit" id="submitButton">Submit</button>
+    </form>
+
+    <script>
+      function disableSubmitButton() {
+        document.getElementById('submitButton').disabled = true;
+      }
+    </script>
+    ```
+
+    Refresh page: By checking event persisted or navigation type
+    ```js
+    window.addEventListener( "pageshow", function ( event ) {
+      var isRevisited = event.persisted || ( typeof window.performance != "undefined" && window.performance.navigation.type === 2 );
+      if ( isRevisited ) {        
+        window.location.reload();
+      }
+    });
+    ```
+
+    ```js
+    (function () {
+        window.onpageshow = function(event) {
+            if (event.persisted) {
+                window.location.reload();
+            }
+        };
+    })();
+    ```
 
 ---
 [&#8682; To Top](#-forms-and-data-handling)

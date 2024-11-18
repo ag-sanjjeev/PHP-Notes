@@ -169,7 +169,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 - Best Practices for Redirects:
 	- `Exit Statement`: Important to add `exit` statement, When using redirect Location type in header.
-	- `Status Code`: Send the correct status code based on the nature of the redirect. When redirect it sends 302 status code to the browser by default, but use redirect with 303 status code that has cacheable never and always prefers `get` request method. Which is used to avoid double entry problem with resubmission of form.
+	- `Status Code`: Send the correct status code based on the nature of the redirect. When redirect it sends `302` status code to the browser by default, but use redirect with `303` status code that has cacheable never and always prefers `get` request method. Which is used to avoid double entry problem with resubmission of form.
 	- `Avoid unnecessary redirects`: Too many redirects that can affects the application performance.
 	- `Test redirects`: Ensure that redirects that works as expected to point correctly in different browsers and environments.
 	- `Consider user experience`: Provide clear informative messages before and during redirects.
