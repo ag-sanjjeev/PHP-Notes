@@ -233,6 +233,7 @@ This repository contains PHP topics and their notes to learn from beginner level
 3. [CLI with PHP:](./docs/cli-with-php.md)
 	- [Executing PHP Script in Command Line](./docs/cli-with-php.md#-executing-php-script-in-command-line)
 	- [Accepting Command Line Arguments](./docs/cli-with-php.md#-accepting-command-line-arguments)
+	- [Common PHP CLI Options](./docs/cli-with-php.md#-common-php-cli-options)
 4. [Performance optimization:](./docs/performance-optimization.md)
 	- [Caching Techniques](./docs/performance-optimization.md#-caching-techniques)
 	- [Code Optimization](./docs/performance-optimization.md#-code-optimization)
