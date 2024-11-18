@@ -419,6 +419,6 @@ PHP provides a rich set of functions to manipulate and interact with arrays. Her
 ---
 [&#8682; To Top](#-arrays)
 
-[&#10094; Previous Topic](./functions.md) &emsp; [Next Topic &#10095;](./super-globals.md)
+[&#10094; Previous Topic](./functions.md) &emsp; [Next Topic &#10095;](./short-hand-syntax.md)
 
 [&#8962; Goto Home Page](../README.md)

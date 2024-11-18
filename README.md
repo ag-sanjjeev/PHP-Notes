@@ -61,6 +61,13 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Array Elements Unpack](./docs/arrays.md#-array-elements-unpack)
 	- [Iterating Array Elements](./docs/arrays.md#-iterating-array-elements)
 	- [Common Array Functions](./docs/arrays.md#-common-array-functions)
+7. [Short-Hand Syntax:](./docs/short-hand-syntax.md)
+	- [Ternary Operator](./docs/short-hand-syntax.md#-ternary-operator)
+	- [Null Coalescing Operator](./docs/short-hand-syntax.md#-null-coalescing-operator)
+	- [Null Coalescing Assignment Operator](./docs/short-hand-syntax.md#-null-coalescing-assignment-operator)
+	- [Short Echo Tag](./docs/short-hand-syntax.md#-short-echo-tag)
+	- [Spaceship Operator](./docs/short-hand-syntax.md#-spaceship-operator)
+	- [Short-Hand Control Structures](./docs/short-hand-syntax.md#-short-hand-control-structures)
 
 ### Core PHP Concepts
 1. [Super globals:](./docs/super-globals.md)
