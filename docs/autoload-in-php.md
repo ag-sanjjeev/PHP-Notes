@@ -53,6 +53,6 @@ spl_autoload_register(function ($class) {
 ---
 [&#8682; To Top](#-autoload-in-php)
 
-[&#10094; Previous Topic](./namespace.md) &emsp; [Next Topic &#10095;](./database-abstraction-layers.md)
+[&#10094; Previous Topic](./namespace.md) &emsp; [Next Topic &#10095;](./composer.md)
 
 [&#8962; Goto Home Page](../README.md)
