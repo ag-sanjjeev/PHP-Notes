@@ -126,6 +126,6 @@ $stmt->execute();
 ---
 [&#8682; To Top](#-php-mysql-integration)
 
-[&#10094; Previous Topic](./database-abstraction-layers.md) &emsp; [Next Topic &#10095;](./web-frameworks.md)
+[&#10094; Previous Topic](./database-abstraction-layers.md) &emsp; [Next Topic &#10095;](./remember-logged-in-user.md)
 
 [&#8962; Goto Home Page](../README.md)

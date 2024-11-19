@@ -30,6 +30,6 @@ Refer the simple implementation of Model View Controller architecture based fram
 ---
 [&#8682; To Top](#-web-frameworks)
 
-[&#10094; Previous Topic](./php-mysql-integration.md) &emsp; [Next Topic &#10095;](./mvc-architecture.md)
+[&#10094; Previous Topic](./remember-logged-in-user.md) &emsp; [Next Topic &#10095;](./mvc-architecture.md)
 
 [&#8962; Goto Home Page](../README.md)
