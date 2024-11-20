@@ -116,6 +116,6 @@ if (preg_match("/^\w+@\w+\.\w+$/", $email)) {
 ---
 [&#8682; To Top](#-regular-expressions)
 
-[&#10094; Previous Topic](./security-best-practices.md) &emsp; [Next Topic &#10095;](./xml-and-json.md)
+[&#10094; Previous Topic](./security-best-practices.md) &emsp; [Next Topic &#10095;](./cryptographic-functionalities.md)
 
 [&#8962; Goto Home Page](../README.md)

@@ -233,20 +233,24 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Extracting Text](./docs/regular-expressions.md#-extracting-text)
 	- [Validate Text](./docs/regular-expressions.md#-validate-text)
 	- [Common Patterns](./docs/regular-expressions.md#-common-patterns)
-2. [XML and JSON:](./docs/xml-and-json.md)
+2. [Cryptographic Functionalities:](./docs/cryptographic-functionalities.md)
+	- [Random Unique ID Generation](./docs/cryptographic-functionalities.md#-random-unique-id-generation)
+	- [Hashing and Salting](./docs/cryptographic-functionalities.md#-hashing-and-salting)
+	- [HMAC](./docs/cryptographic-functionalities.md#-hmac)
+	- [Encryption and Decryption](./docs/cryptographic-functionalities.md#-encryption-and-decryption)
+3. [XML and JSON:](./docs/xml-and-json.md)
 	- [Parsing XML](./docs/xml-and-json.md#-parsing-xml)
 	- [Parsing JSON](./docs/xml-and-json.md#-parsing-json)
 	- [Generating XML](./docs/xml-and-json.md#-generating-xml)
 	- [Generating JSON](./docs/xml-and-json.md#-generating-json)
 	- [Key Points](./docs/xml-and-json.md#-key-points)
-3. [CLI with PHP:](./docs/cli-with-php.md)
+4. [CLI with PHP:](./docs/cli-with-php.md)
 	- [Executing PHP Script in Command Line](./docs/cli-with-php.md#-executing-php-script-in-command-line)
 	- [Accepting Command Line Arguments](./docs/cli-with-php.md#-accepting-command-line-arguments)
 	- [Common PHP CLI Options](./docs/cli-with-php.md#-common-php-cli-options)
-4. [Performance optimization:](./docs/performance-optimization.md)
+5. [Performance optimization:](./docs/performance-optimization.md)
 	- [Caching Techniques](./docs/performance-optimization.md#-caching-techniques)
 	- [Code Optimization](./docs/performance-optimization.md#-code-optimization)
-
 
 By following this road map and consistently practicing, you can develop a strong foundation in PHP and build impressive web applications. For better understanding and double check with Official [PHP manual](https://www.php.net/manual/en/index.php), Before proceed in real-time implementations.
 
