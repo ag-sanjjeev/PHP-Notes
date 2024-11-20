@@ -111,6 +111,6 @@ After logged out or account deactivation, remove remember token on both side. De
 ---
 [&#8682; To Top](#-remember-logged-in-user)
 
-[&#10094; Previous Topic](./php-mysql-integration.md) &emsp; [Next Topic &#10095;](./web-frameworks.md)
+[&#10094; Previous Topic](./php-mysql-integration.md) &emsp; [Next Topic &#10095;](./configuring-apache-server.md)
 
 [&#8962; Goto Home Page](../README.md)
