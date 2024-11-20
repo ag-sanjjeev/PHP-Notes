@@ -55,6 +55,13 @@ It is used to store frequently accessed data in memory or on disk to reduce the 
    - Minify CSS, and JavaScript files to reduce file size to load quicker in the page.
    - Compress files, such as images to reduce transfer time.
 
+- Follow PSR Standards:
+   - Code Quality: PSR standards helps to write clean code that improves readability.
+   - Community Adoption: Many popular PHP frameworks and libraries adhere to PSR.
+   - Best Practices: It promotes coding style, error handling, and security standard.
+   - Prefer to use active standards and avoid using deprecated, abandoned and draft.
+   - Refer Official PSR Documentations or See more from [PHP-FIG Site](https://www.php-fig.org/psr/).
+
 ---
 [&#8682; To Top](#-performance-optimization)
 
