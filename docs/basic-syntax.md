@@ -28,6 +28,7 @@ PHP defines the kind of information that a variable can hold. That data types do
 - **Float:** Decimal numbers (e.g., 3.14, -2.5).
 - **String:** Sequence of characters that enclosed with quotes (single '' or double "").
 - **Boolean:** Represents TRUE or FALSE state.
+- **Enum:** Enumeration can holds a set of named constants.
 - **Array:** Series collection of items of any data type.
 - **Object:** Represents a complex data structure with associated properties and methods.
 

@@ -13,7 +13,6 @@ Arrays are fundamental data structures in PHP. It allows to store and manage col
 9. [Iterating Array Elements](#-iterating-array-elements)
 10. [Common Array Functions](#-common-array-functions)
 
-
 ### &#10022; Array Types:
 PHP has 3 types of arrays.
   1. [Indexed Array](#-indexed-array)
@@ -419,6 +418,6 @@ PHP provides a rich set of functions to manipulate and interact with arrays. Her
 ---
 [&#8682; To Top](#-arrays)
 
-[&#10094; Previous Topic](./functions.md) &emsp; [Next Topic &#10095;](./short-hand-syntax.md)
+[&#10094; Previous Topic](./functions.md) &emsp; [Next Topic &#10095;](./enums.md)
 
 [&#8962; Goto Home Page](../README.md)
