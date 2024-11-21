@@ -1,5 +1,7 @@
 ## &#10162; MVC Architecture:
-MVC stands for Model View Controller. It is a design pattern that separates an application into three interconnected parts.
+MVC stands for Model View Controller. It is not a design pattern but described as a software architectural pattern. It is a way of structuring an application into three interconnected parts.
+
+It doesn't directly fit into any other [design patterns](./design-patterns.md). It is a widely used pattern for building web applications and promotes a clear separation of different parts for easy maintainable and testable.
 
 ### &#9780; Overview:
 1. [Understanding MVC Architecture](#-understanding-mvc-architecture)
