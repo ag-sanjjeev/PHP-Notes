@@ -147,6 +147,6 @@ endswitch;
 ---
 [&#8682; To Top](#-short-hand-syntax)
 
-[&#10094; Previous Topic](./enums.md) &emsp; [Next Topic &#10095;](./super-globals.md)
+[&#10094; Previous Topic](./enums.md) &emsp; [Next Topic &#10095;](./type-hints.md)
 
 [&#8962; Goto Home Page](../README.md)

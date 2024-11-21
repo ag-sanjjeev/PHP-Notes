@@ -79,6 +79,11 @@ This repository contains PHP topics and their notes to learn from beginner level
 	- [Short Echo Tag](./docs/short-hand-syntax.md#-short-echo-tag)
 	- [Spaceship Operator](./docs/short-hand-syntax.md#-spaceship-operator)
 	- [Short-Hand Control Structures](./docs/short-hand-syntax.md#-short-hand-control-structures)
+9. [Type Hints:](./docs/type-hints.md)
+	- [Basic Usage](./docs/type-hints.md#-basic-usage)
+	- [Nullable Types](./docs/type-hints.md#-nullable-types)
+	- [Union Types](./docs/type-hints.md#-union-types)
+	- [Key Points](./docs/type-hints.md#-key-points)
 
 ### Core PHP Concepts
 1. [Super globals:](./docs/super-globals.md)
