@@ -56,6 +56,6 @@ While reflection is a powerful tool, But it should be used judiciously. It is re
 ---
 [&#8682; To Top](#-reflection-class)
 
-[&#10094; Previous Topic](./abstraction.md) &emsp; [Next Topic &#10095;](./namespace.md)
+[&#10094; Previous Topic](./abstraction.md) &emsp; [Next Topic &#10095;](./dependency-injection.md)
 
 [&#8962; Goto Home Page](../README.md)
