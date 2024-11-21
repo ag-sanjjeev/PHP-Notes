@@ -258,6 +258,17 @@ This repository contains PHP topics and their notes to learn from beginner level
 5. [Performance optimization:](./docs/performance-optimization.md)
 	- [Caching Techniques](./docs/performance-optimization.md#-caching-techniques)
 	- [Code Optimization](./docs/performance-optimization.md#-code-optimization)
+6. [Design Patterns:](./docs/design-patterns.md)
+	- [Common Patterns](./docs/design-patterns.md#-common-patterns)
+	- [Singleton Design Pattern](./docs/design-patterns.md#-singleton-design-pattern)
+	- [Factory Design Pattern](./docs/design-patterns.md#-factory-design-pattern)
+	- [Abstract Factory Design Pattern](./docs/design-patterns.md#-abstract-factory-design-pattern)
+	- [Adapter Design Pattern](./docs/design-patterns.md#-adapter-design-pattern)
+	- [Decorator Design Pattern](./docs/design-patterns.md#-decorator-design-pattern)
+	- [Facade Design Pattern](./docs/design-patterns.md#-facade-design-pattern)
+	- [Strategy Design Pattern](./docs/design-patterns.md#-strategy-design-pattern)
+	- [Command Design Pattern](./docs/design-patterns.md#-command-design-pattern)
+	- [Comparison among patterns](./docs/design-patterns.md#-comparison-among-patterns)
 
 By following this road map and consistently practicing, you can develop a strong foundation in PHP and build impressive web applications. For better understanding and double check with Official [PHP manual](https://www.php.net/manual/en/index.php), Before proceed in real-time implementations.
 

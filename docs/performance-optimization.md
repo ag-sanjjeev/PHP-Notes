@@ -65,6 +65,6 @@ It is used to store frequently accessed data in memory or on disk to reduce the 
 ---
 [&#8682; To Top](#-performance-optimization)
 
-[&#10094; Previous Topic](./cli-with-php.md)
+[&#10094; Previous Topic](./cli-with-php.md) &emsp; [Next Topic &#10095;](./design-patterns.md)
 
 [&#8962; Goto Home Page](../README.md)
