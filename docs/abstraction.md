@@ -253,6 +253,6 @@ class User {
 ---
 [&#8682; To Top](#-abstraction)
 
-[&#10094; Previous Topic](./encapsulation.md) &emsp; [Next Topic &#10095;](./namespace.md)
+[&#10094; Previous Topic](./encapsulation.md) &emsp; [Next Topic &#10095;](./reflection-class.md)
 
 [&#8962; Goto Home Page](../README.md)

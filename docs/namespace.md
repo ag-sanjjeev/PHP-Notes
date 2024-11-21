@@ -72,6 +72,6 @@ $obj = new MPN\MyClass();
 ---
 [&#8682; To Top](#-namespace)
 
-[&#10094; Previous Topic](./abstraction.md) &emsp; [Next Topic &#10095;](./autoload-in-php.md)
+[&#10094; Previous Topic](./reflection-class.md) &emsp; [Next Topic &#10095;](./autoload-in-php.md)
 
 [&#8962; Goto Home Page](../README.md)
