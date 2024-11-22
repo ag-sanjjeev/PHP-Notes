@@ -67,6 +67,6 @@ $a = 6;
 ---
 [&#8682; To Top](#-comments)
 
-[&#10094; Previous Topic](./basic-syntax.md) &emsp; [Next Topic &#10095;](./control-flow.md)
+[&#10094; Previous Topic](./display-statements.md) &emsp; [Next Topic &#10095;](./control-flow.md)
 
 [&#8962; Goto Home Page](../README.md)
