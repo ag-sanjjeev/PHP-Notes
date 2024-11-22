@@ -99,6 +99,36 @@ $obj = new ActualClass;
 $obj->execute($logger);
 ```
 
+**Real-World Example:**
+```php
+class Product {
+    public function __construct(public string $name, public float $price) {}
+}
+
+function calculateTotalPrice(array $products): float {
+    $total = 0;
+    foreach ($products as $product) {
+        // validating whether it is a class object of Product Class
+        if ($product instanceof Product) { 
+            $total += $product->price;
+        } else {
+            // Handle invalid product
+            throw new InvalidArgumentException('Invalid product class object');
+        }
+    }
+    return $total;
+}
+
+// Usage:
+$products = [
+    new Product('Product 1', 10.35),
+    new Product('Product 2', 50.75),
+];
+// Inject product class objects
+$totalPrice = calculateTotalPrice($products);
+echo $totalPrice;
+```
+
 ---
 [&#8682; To Top](#-dependency-injection)
 
