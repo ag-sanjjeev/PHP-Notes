@@ -266,6 +266,6 @@ When a user submit a form, that form data has processed and shows a response pag
 ---
 [&#8682; To Top](#-forms-and-data-handling)
 
-[&#10094; Previous Topic](./super-globals.md) &emsp; [Next Topic &#10095;](./headers.md)
+[&#10094; Previous Topic](./super-globals.md) &emsp; [Next Topic &#10095;](./date-and-time.md)
 
 [&#8962; Goto Home Page](../README.md)
