@@ -182,23 +182,23 @@ $handle = fopen("log.txt", "a");
    ```php
    rmdir("old_directory");
    ```
-- `copy()`:** Copies a file.
+- `copy()`: Copies a file.
    ```php
    copy($sourcefile, $destination);
    ```
-- `scandir()`:** Lists files and directories in a directory.
+- `scandir()`: Lists files and directories in a directory.
    ```php
    scandir("directory_name");
    ```
-- `flock()`:** Acquires an exclusive lock on a file.
+- `flock()`: Acquires an exclusive lock on a file.
    ```php
    flock($handle, 'w');
    ```
-- `feof()`:** Checks if the end of a file has been reached.
+- `feof()`: Checks if the end of a file has been reached.
    ```php
    feof($handle);
    ```
-- `rewind()`:** Rewinds the position of the file pointer to the beginning.
+- `rewind()`: Rewinds the position of the file pointer to the beginning.
    ```php
    rewind($handle);
    ```

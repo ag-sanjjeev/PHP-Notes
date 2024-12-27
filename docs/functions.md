@@ -106,8 +106,8 @@ echo $x; // Outputs 6 (original variable is modified)
 
 ### &#10022; Scope of Variables:
 It decides the visibility of a variable within the program. 
-	- Variables declared inside a function blocks, that have local scope. Which means accessible within function block. 
-	- Variables declared outside of function blocks, that have global scope. Which means accessible throughout of the script.
+- Variables declared inside a function blocks, that have local scope. Which means accessible within function block. 
+- Variables declared outside of function blocks, that have global scope. Which means accessible throughout of the script.
 
 *Example:*
 ```php

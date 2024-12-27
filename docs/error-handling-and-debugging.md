@@ -126,6 +126,7 @@ try {
 ```php
 function logErrorToDatabase($message) {
     $db = new PDO($dsn, $username, $password);
+    $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
     $stmt = $db->prepare("INSERT INTO error_log (instant_at, message) VALUES (?, ?)");    
     $stmt->execute([date('Y-m-d H:i:s'), $message]);

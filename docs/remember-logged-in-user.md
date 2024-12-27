@@ -14,17 +14,17 @@ When developing a web application with user authentication, It is important to i
 8. [Remove Remember Token](#-remove-remember-token)
 
 ### &#10022; Best Practice:
-The step are recommended to remember logged in user in a safe way:
-	- Set a session name for the application or project. It should be unpredictable.
-	- Start and Implement session management.
-	- This creates a session id and it will set cookie in the browser.
-	- Use that session id until the user before the login state change.	
-	- After logged in, regenerate session id for the user. This will prevent session related attacks.
-	- Use either session id or generate any other unique id as remember identity of the user.
-	- Store that unique id in database as well as a cookie.
-	- That unique id used to detect the valid logged in user with cookie.
-	- Whenever changes in user logged state, regenerate that unique id and update on database as well as cookie.
-	- After logged out, make that unique id invalid to use in future by remove in database and remove cookie.
+The steps are recommended to remember logged in user in a safe way:
+- Set a session name for the application or project. It should be unpredictable.
+- Start and Implement session management.
+- This creates a session id and it will set cookie in the browser.
+- Use that session id until the user before the login state change.	
+- After logged in, regenerate session id for the user. This will prevent session related attacks.
+- Use either session id or generate any other unique id as remember identity of the user.
+- Store that unique id in database as well as a cookie.
+- That unique id used to detect the valid logged in user with cookie.
+- Whenever changes in user logged state, regenerate that unique id and update on database as well as cookie.
+- After logged out, make that unique id invalid to use in future by remove in database and remove cookie.
 
 *Allocate separate table in database for storing remember token if required.
 Always prefer to use hashing and salting for passwords to store in database, that unreadable by others as well as machines.*
@@ -36,7 +36,7 @@ When visiting a page, `session_start()` function will generate unique session id
 
 `session_start()` function is defined before to of any content or before any content sent to the browser to avoid errors. So, HTTP headers sent first to the browser to set cookies and other things.
 
-Once session started, That session can store session data as file on server. To storing a large data which take time to load and read that session data. It results in performance lag. Store small amount of data rather than large.
+Once session started, That session can store session data as file on server. To storing a large data which take time to load and read that session data. It results in performance lag. **Store small amount of data** rather than large.
 
 *Start the Session:*
 ```php

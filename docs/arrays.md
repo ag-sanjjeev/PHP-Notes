@@ -394,7 +394,7 @@ PHP provides a rich set of functions to manipulate and interact with arrays. Her
     print_r($uniqueNumbers); 
     // Output: Array ( [0] => 1 [1] => 2 [3] => 3 [4] => 5 [5] => 6 [7] => 4 )
     ```
-  - `array_flip()`: Reverses the keys and values of an associative array.
+  - `array_flip()`: Interchange the keys and values of an associative array.
     ```php
     $fruits = ['apple' => 1, 'banana' => 2, 'orange' => 3, 'strawberry' => 2];
     $flippedFruits = array_flip($fruits);

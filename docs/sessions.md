@@ -307,6 +307,7 @@ class DatabaseSessionHandler implements SessionHandlerInterface {
 
     public function __construct($dsn, $username, $password) {
         $this->pdo = new PDO($dsn, $username, $password);
+        $this->pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     }
 
     // Implement the remaining and required methods (open, close, read, write, destroy, gc)

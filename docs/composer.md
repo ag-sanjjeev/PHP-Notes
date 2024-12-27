@@ -24,7 +24,7 @@ It creates `composer.json` file for declaring dependencies for the project. Whic
 - Custom Packages: Composer can be used for creating custom packages of code and share it with others.
 
 ### &#10022; Basic Usage:
-- Install Composer: To install composer, follow the instructions from official site to install.
+- Install Composer: To install composer, follow the instructions from [official site](https://getcomposer.org/) to install.
 - Initiate Composer: Initiate project with composer by using `composer init` command.
 - Add Libraries: After initiation, mention third party libraries in `composer.json` or by command.
 - Download Libraries: After updating `composer.json`, run `composer install` command to download and install the required dependencies.

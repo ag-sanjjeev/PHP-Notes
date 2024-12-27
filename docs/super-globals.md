@@ -198,6 +198,7 @@ $dbConfig = parse_url($dbUrl);
 // Connect to the database with PDO
 $dsn = "mysql:host={$dbConfig['host']};dbname={$dbConfig['path']}";
 $pdo = new PDO($dsn, $dbConfig['user'], $dbConfig['pass']);
+$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 ```
 
 ---
