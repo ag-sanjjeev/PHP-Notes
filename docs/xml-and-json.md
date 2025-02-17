@@ -102,6 +102,6 @@ echo $json_string;
 ---
 [&#8682; To Top](#-xml-and-json)
 
-[&#10094; Previous Topic](./cryptographic-functionalities.md) &emsp; [Next Topic &#10095;](./cli-with-php.md)
+[&#10094; Previous Topic](./cryptographic-functionalities.md) &emsp; [Next Topic &#10095;](./restful-api.md)
 
 [&#8962; Goto Home Page](../README.md)
