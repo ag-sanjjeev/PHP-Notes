@@ -14,7 +14,7 @@ This function formats a number with grouped thousands separators.
 
 *Syntax:*
 
-`number_format(number, decimal_places, decimal_places, thousands_separator);`
+`number_format(number, decimal_places, decimal_separator, thousands_separator);`
 - `number`: It is a first parameter as a number to format.
 - `decimal_places`: It is second and optional parameter as a number of decimal places.
 - `decimal_separator`: It is third and optional parameter as a decimal separator character.
